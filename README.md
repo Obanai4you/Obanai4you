@@ -1,4 +1,6 @@
-# 💫 Hi 👋, I'm Priyanshu Shrestha
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&center=true&color=c93052&width=350&height=70&duration=4000&lines=!+Welcome+To+My+Github!+🏂;+I'm+Priyanshu+Shrestha!;" />
+</h1>
 **A student in BSC.CSIT || Studying Cybersecurity**
 
 
