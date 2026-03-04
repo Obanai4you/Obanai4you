@@ -45,11 +45,6 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Obanai4you&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-![](https://visitcount.itsvg.in/api?id=Obanai4you&icon=0&color=0)
 
 
